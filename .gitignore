@@ -2,6 +2,7 @@
 /shelf/
 /vendor/*
 .idea
+.env
 /workspace.xml
 # Editor-based HTTP Client requests
 /httpRequests/
